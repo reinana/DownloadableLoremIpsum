@@ -1,0 +1,17 @@
+# Composer の依存関係
+/vendor/
+
+# Composer が作るロックファイル（場合によっては共有する）
+# composer.lock
+
+# OSごとの不要ファイル
+.DS_Store
+Thumbs.db
+
+# IDEの設定ファイル
+.idea/
+.vscode/
+
+# キャッシュやログ
+*.log
+.cache/

@@ -4,7 +4,7 @@
 ユーザーやレストランチェーンのデータを自動生成し、  
 選択した形式 (HTML / Markdown / JSON / TXT) でダウンロードできる PHP アプリです。
 
-!(スクショ)[public/screenShot.png]
+!(スクショ)[public/images/screenShot.png]
 
 ## 🚀 機能
 
